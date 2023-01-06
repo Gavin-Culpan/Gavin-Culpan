@@ -3,6 +3,8 @@
 # Howzit
 
 https://next-portfolio-4ajov7c6x-gavin-culpan.vercel.app
+
+https://news-gavin-culpan.vercel.app
  
 * I'm a Web Developer and part-time Back-End Developer (yuck).
 
